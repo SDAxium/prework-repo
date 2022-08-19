@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="swoosh">Swoosh</string>
+    <string name="ichigo_intro">My name is Ichigo Kurosaki\nAnd you\'re watching...</string>
+    <string name="disney">✨Disney Channel✨</string>
+</resources>
