@@ -10,9 +10,9 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed
+* [✔] Image and introductory message displayed on screen
+* [✔] Button displayed on screen
+* [✔] Toast with message appears when button is pressed
 
 The following **optional** features are implemented:
 
@@ -29,7 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 
 ## License
 
